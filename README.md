@@ -6,7 +6,7 @@ Kodluyoruz Eğitimi kapsamında açtığım ilk repo
 
 Öncelikler projeyi klonlayın. https://github.com/m4elmas/kodluyoruzilkrepo.git
 
-´git clone https://github.com/m4elmas/kodluyoruzilkrepo.git´
+´ git clone https://github.com/m4elmas/kodluyoruzilkrepo.git ´
 
 ## USAGE
 
