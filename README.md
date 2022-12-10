@@ -10,13 +10,7 @@ Bu repo [Kodluyoruz](https://app.patika.dev) Front-End Eğitiminde oluşturduğu
 
 Öncelikler projeyi klonlayın. https://github.com/m4elmas/kodluyoruzilkrepo.git
 
-<<<<<<< HEAD
-`git clone https://github.com/m4elmas/kodluyoruzilkrepo.git`
-=======
-´´´
-git clone https://github.com/m4elmas/kodluyoruzilkrepo.git
-´´´
->>>>>>> a42e1a2ebd2e84160c36cd341a28cdffcb80bbc0
+` git clone https://github.com/m4elmas/kodluyoruzilkrepo.git `
 
 ## USAGE
 
